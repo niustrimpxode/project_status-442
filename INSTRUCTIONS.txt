@@ -1,0 +1,27 @@
+# Project Status App - week 8 chat login mechanism
+
+## Setup Instructions
+1. Install XAMPP (if not installed).
+2. Copy the "project_status_app" folder into `C:/xampp/htdocs/`.
+3. Start XAMPP, then start **Apache** and **MySQL**.
+4. Open `http://localhost/phpmyadmin` in a browser.
+5. Click the **Import** tab.
+6. Select `project_status.sql` and click **Go** to restore the database.
+
+## Running the App
+1. Open a browser and go to `http://localhost/project_status_app/index.html`.
+2. Use the login credentials stored in the database.
+3. Once logged in, you will be redirected to the dashboard.
+4. Try the chat feature by sending messages.
+
+## Default Login Credentials
+
+USER : 
+
+- **Username:** user1
+- **Password:** password1
+
+ADMIN : 
+
+- **Username:** admin
+- **Pasword:** admin123
